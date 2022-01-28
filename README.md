@@ -8,6 +8,6 @@
 
 I'm Fullstack Developer and passionate about development. Currently living in Rio de Janeiro, Brazil.
 
-- 👨‍💼 Looking for a position in the area.
-- 🖤 Techs: Node.js, React.js, React Native, PHP, Laravel, Docker and others...
-- 📖 Studying focused in Node.js, React.js and React Native.
+- 👨‍💼 Frontend Dev Lead at Codeby 💙
+- 🖤 Techs: Typescript, JS, Node, React, React Native, Vue, PHP, Laravel, Docker and others...
+- 📖 Studying focused in React, React Native, Node.
