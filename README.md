@@ -11,3 +11,5 @@ I'm Fullstack Developer and passionate about development. Currently living in Ri
 - 👨‍💼 Frontend Dev Lead at Codeby 💙
 - 🖤 Techs: Typescript, JS, Node, React, React Native, Vue, PHP, Laravel, Docker and others...
 - 📖 Studying focused in React, React Native, Node.
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=marcelotk15&show_icons=true&count_private=true "My Stats")
